@@ -1,0 +1,19 @@
+items={
+    "idly":10,
+    "vada":20,
+    "dosa":15,
+     "puri":12  }
+item1=input("enter the item 1:")
+item1q=int(input("enter the quantity:"))
+item2=input("enter the item 2:")
+item2q=int(input("enter the quantity:"))
+item3=input("enter the item 3:")
+item3q=int(input("enter the quantity:"))
+item4=input("enter the item 4:")
+item4q=int(input("enter the quantity:"))
+count=(10*item1q)
+print(count)
+
+
+
+

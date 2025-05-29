@@ -2,7 +2,7 @@ def greet(lang,name):
 
     if lang == "en":
 
-        print(F"Hello {name}")
+        print(f"Hello {name}")
 
     elif lang == "fr":
 

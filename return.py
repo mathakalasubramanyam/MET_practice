@@ -1,5 +1,4 @@
 def greet(lang):
-
     if lang == "en":
 
         return "Hello"
